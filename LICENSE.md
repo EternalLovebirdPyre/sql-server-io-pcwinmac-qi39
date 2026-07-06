@@ -1,4 +1,4 @@
-# 
+# Top SQL Server Management Studio plugins for Mac OS | Premium SQL Server Management Studio plugins for PC Windows. Featuring image-scanning and build-cache — optimized for maximum performance on every platform.
 
 
 
